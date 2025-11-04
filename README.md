@@ -9,23 +9,12 @@
 
 **Production-quality Retrieval-Augmented Generation with multi-strategy retrieval and comprehensive evaluation framework.**
 
-A complete, battle-tested implementation showing how to build enterprise-grade RAG systems that:
+A complete implementation of enterprise-grade RAG retrieval systems that:
 - ✅ Combine semantic and lexical search (hybrid retrieval)
 - ✅ Optimize queries for better results
 - ✅ Rerank with cross-encoders
 - ✅ Evaluate with industry-standard metrics
 - ✅ Compare retriever strategies systematically
-
-## What This Is
-
-**Not just a library.** This is a **production pattern** for RAG systems used by companies like Google, Bing, and OpenAI.
-
-You'll learn:
-1. How different retrieval strategies work
-2. When to use semantic vs lexical search
-3. How to evaluate retrieval quality
-4. How to optimize retrieval pipelines
-5. How to compare different approaches systematically
 
 ## Architecture
 
