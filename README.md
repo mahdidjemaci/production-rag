@@ -3,8 +3,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-KazKozDev-blue?logo=github)](https://github.com/KazKozDev/production-rag)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-orange.svg)](https://github.com/KazKozDev/production-rag)
-[![AI](https://img.shields.io/badge/AI-Information%20Retrieval-blueviolet.svg)](https://github.com/KazKozDev/production-rag)
+[![Information Retrieval](https://img.shields.io/badge/IR-Information%20Retrieval-orange.svg)](https://github.com/KazKozDev/production-rag)
+[![Semantic Search](https://img.shields.io/badge/Search-Semantic%20%2B%20BM25-blueviolet.svg)](https://github.com/KazKozDev/production-rag)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 **Production-quality Retrieval-Augmented Generation with multi-strategy retrieval and comprehensive evaluation framework.**
