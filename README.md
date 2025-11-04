@@ -379,9 +379,6 @@ Each stage is pluggable.
 ### 3. Composition over Inheritance
 Hybrid combines Semantic + BM25 using composition, not inheritance.
 
-### 4. Factory Pattern
-Could easily add factory to create `create_retriever(strategy="hybrid")`.
-
 ## Production Considerations
 
 ### Scaling
