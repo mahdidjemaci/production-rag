@@ -426,21 +426,6 @@ Not implemented (but easy to add):
 - **Prompt engineering** - Optimize prompts for LLMs
 - **Fusion with LLM** - Combine retrieval with language generation
 
-## Hiring Signal
-
-**For LLM/AI engineers:**
-- Shows understanding of information retrieval
-- Demonstrates evaluation rigor (metrics, benchmarking)
-- Production mindset (optimization, monitoring)
-- Clean code architecture (patterns, abstraction)
-- Can discuss tradeoffs intelligently
-
-**For interviews:**
-- "I built a production RAG system that..."
-- "These are the metrics that matter: Precision, Recall, NDCG, MRR"
-- "Here's how semantic vs lexical search differs..."
-- "This is how we compare retrieval strategies systematically"
-
 ## Resources
 
 ### Papers
