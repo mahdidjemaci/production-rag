@@ -9,7 +9,7 @@ description = "Production-quality RAG system with multi-strategy retrieval and e
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "RAG System Contributors"}
+    {name = "Artem Kazakov Kozlov", email = "kazkozdev@gmail.com"}
 ]
 keywords = [
     "rag",
@@ -49,9 +49,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/production-rag"
-Repository = "https://github.com/your-username/production-rag"
-Issues = "https://github.com/your-username/production-rag/issues"
+Homepage = "https://github.com/KazKozDev/production-rag"
+Repository = "https://github.com/KazKozDev/production-rag"
+Issues = "https://github.com/KazKozDev/production-rag/issues"
 
 [tool.setuptools]
 packages = ["rag", "rag.retrieval", "rag.query", "evaluation"]

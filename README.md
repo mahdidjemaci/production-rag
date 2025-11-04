@@ -1,5 +1,9 @@
 # Production RAG System
 
+[![GitHub](https://img.shields.io/badge/GitHub-KazKozDev-blue?logo=github)](https://github.com/KazKozDev/production-rag)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 **Production-quality Retrieval-Augmented Generation with multi-strategy retrieval and comprehensive evaluation framework.**
 
 A complete, battle-tested implementation showing how to build enterprise-grade RAG systems that:
@@ -463,9 +467,9 @@ If you use this in research or production:
 ```bibtex
 @software{production_rag_2025,
   title = {Production RAG System: Multi-Strategy Retrieval with Evaluation},
-  author = {RAG System Contributors},
+  author = {Artem Kazakov Kozlov},
   year = {2025},
-  url = {https://github.com/your-username/production-rag}
+  url = {https://github.com/KazKozDev/production-rag}
 }
 ```
 
