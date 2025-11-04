@@ -45,8 +45,9 @@ Top-K Results
 ## Installation
 
 ```bash
-# Clone or download
-cd rag-system
+# Clone repository
+git clone https://github.com/KazKozDev/production-rag.git
+cd production-rag
 
 # Install dependencies
 pip install -r requirements.txt
